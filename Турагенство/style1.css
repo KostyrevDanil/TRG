@@ -1,0 +1,134 @@
+body {background-color: yellowgreen;
+}
+#header {
+    position: relative;
+    background-image: url("img/kpto4.jpg");
+    border: 0px;
+    width: 100%;
+    height: 600px;
+    margin-bottom:0px;
+    font-size: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:wheat;
+    border:6px solid rgb(186, 9, 221) ;
+    border-radius: 25px;
+}
+#sidebar {
+    background-color:rgb(30, 206, 168);
+    position: relative;
+    display: inline-block;
+    padding: 30px; 
+    width: 22%;
+    height: 300px;
+    height: 400px;
+    margin-right: 0px;
+    border: 6px solid rgb(186, 9, 221);
+    color: teal;
+    margin-top: 50px;
+    border-radius: 30px;
+}
+#content {background-color: rgb(30, 206, 168);
+    position: relative;
+    display: inline-block;
+    padding: 30px; 
+    width: 60%;
+    height: 1500px;
+    float: right;
+    text-align: center;
+    margin-left: 0px;
+    border: 6px solid rgb(186, 9, 221);
+    border-radius: 30px;
+    margin-top: 50px;
+}
+
+p {
+    font-size: 20px;
+    font-family: monospace;
+    margin-bottom: 50px;    
+}
+a {
+    color: thistle;
+    font-size: 20px;
+    font-family: unset;
+    border: 2px solid rgb(238, 49, 2);
+    background-color: gray;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 6px 15px;
+    cursor: pointer;
+}
+h2 {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+  }
+
+#photo {
+    background-image: url("img/falgrf2.jpg");
+    border: 3px solid blue ;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 85%;
+    height: 260px;
+    margin-left: 50px;
+    border-radius: 15px;
+    color: cornsilk;
+    position: relative;
+}
+#photo2 {
+    background-image: url("img/flagusa2.jpg");
+    border: 3px solid blue ;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 85%;
+    height: 260px;
+    margin-left: 50px;
+    border-radius: 15px;
+    color:rgb(54, 50, 43);
+    position: relative;
+}
+
+#photo3 {
+    background-image: url("img/flagfran.jpg");
+    border: 3px solid blue ;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 85%;
+    height: 260px;
+    margin-left: 50px;
+    border-radius: 15px;
+    color:rgb(54, 50, 43)
+}
+#photo4 {
+    background-image: url("img/flaggermanii1.jpg");
+    border: 3px solid blue ;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 85%;
+    height: 260px;
+    margin-left: 50px;
+    border-radius: 15px;
+    color:rgb(54, 50, 43)
+}
+#photo5 {
+    background-image: url("img/flagavs1.jpg");
+    border: 3px solid blue ;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 85%;
+    height: 260px;
+    margin-left: 50px;
+    border-radius: 15px;
+    color:cornsilk;
+}
+h1 {
+    font-size: 30px;
+    font-family: fantasy;
+}
+
+
+
